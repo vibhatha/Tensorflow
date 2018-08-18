@@ -16,19 +16,19 @@ Alt + X
 
 
 ```python
-	python3 SGD/sgd_benchmark.py
+python3 SGD/sgd_benchmark.py
 ```
 
 Then on another terminal 
 
 ```bash
-	cd SGD
-	tensorboard --logdir=output_sgd_benchmark
+cd SGD
+tensorboard --logdir=output_sgd_benchmark
 ```
 
 Then go to the ip address shown in the console window ...
 In my case it is 
 
 ```bash
-	http://vibhatha-ThinkPad-p50:6006
+http://vibhatha-ThinkPad-p50:6006
 ```
